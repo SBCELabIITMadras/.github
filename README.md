@@ -16,9 +16,12 @@ Our lab’s interdisciplinary research utilizes a combination of computational s
 # Research Focus
 
 # 1. Cell line engineering of mammalian cells for biotherapeutic manufacturing
+
 # 2. Cell line establishment for cultivated meat manufacturing
+
 # 3. NGS pipeline
-# 4. Metabolic model based analysis for Biomanufacturing and 
+
+# 4. Metabolic model based analysis for Biomanufacturing and  
 
 
 **Principal Investigator** Meiyappan Lakshmanan, IIT Madras
